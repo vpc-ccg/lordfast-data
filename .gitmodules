@@ -1,3 +1,4 @@
 [submodule "codes/pbsim"]
 	path = codes/pbsim
-	url = https://github.com/yukiteruono/pbsim
+    url = https://github.com/yukiteruono/pbsim
+    ignore = dirty
