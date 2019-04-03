@@ -20,7 +20,7 @@ extract: $(objects)
 clean:
 	@rm -f $(objects)
 	
-clean-exe: clean
+clean-exe:
 	@rm -f extract
 
 DEBUG_FLAGS:
