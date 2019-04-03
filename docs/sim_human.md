@@ -8,6 +8,8 @@ cd codes/pbsim
 make
 cd ../..
 ```
+which generates the PBSIM binary at `codes/pbsim/src/pbsim`.
+
 ### Obtaining sample real dataset
 Next, we download a sample real dataset that will be used by PBSIM to generate simulated reads. We download the fastq files corresponding to a cell:
 ```
