@@ -265,7 +265,7 @@ int main(int argc, char* argv[])
 {
     if(argc < 6)
     {
-        cerr<< "USAGE: ./evaluate reads.fasta true.map reported.map corDistLimit minOverlap" << endl;
+        cerr<< "USAGE: ./evaluate reads.fasta true.m5 reported.m5 corDistLimit minOverlap" << endl;
         return EXIT_FAILURE;
     }
 
