@@ -12,13 +12,9 @@ This repository contains:
 git clone --recursive https://github.com/vpc-ccg/lordfast-extra.git
 ```
 
-## Building PBSIM
-```
-cd codes/pbsim
-./configure
-make
-```
-Then the PBSIM binary is located at `codes/pbsim/src/pbsim`
-
 ## Generating simulated reads
-For the **human genome** see [here](https://github.com/vpc-ccg/lordfast-extra/blob/master/docs/sim_human.md)
+Please check [here](https://github.com/vpc-ccg/lordfast-extra/blob/master/docs/sim_human.md)
+
+## Evaluation of simulated reads
+Please check [here](https://github.com/vpc-ccg/lordfast-extra/blob/master/docs/evaluate_sim.md)
+
